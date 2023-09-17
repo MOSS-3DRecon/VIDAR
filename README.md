@@ -103,7 +103,7 @@
                 <div class="row">
                     <div class="col text-center">
                         <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/AnoymousAuthors/ACM-MM-Paper759Demo.github.io/releases/download/v0.0/third.view_YOSO.mp4" type="video/mp4">
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/third_view.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
@@ -133,12 +133,12 @@
                 <div class="row">
                     <div class="col text-center">
                         <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/AnoymousAuthors/YOSO.github.io/releases/download/v0.1/Bench.mp4" type="video/mp4">
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Bench.mp4" type="video/mp4">
                         </video>
                     </div>
                     <div class="col text-center">
                         <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/AnoymousAuthors/YOSO.github.io/releases/download/v0.1/Sofa.mp4" type="video/mp4">
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Sofa.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
@@ -156,12 +156,12 @@
                 <div class="row">
                     <div class="col text-center">
                         <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/AnoymousAuthors/YOSO.github.io/releases/download/v0.1/Corridor.mp4" type="video/mp4">
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Corridor.mp4" type="video/mp4">
                         </video>
                     </div>
                     <div class="col text-center">
                         <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/AnoymousAuthors/YOSO.github.io/releases/download/v0.1/Desk.mp4" type="video/mp4">
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Desk.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
