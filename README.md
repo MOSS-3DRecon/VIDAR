@@ -91,7 +91,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h3>Real-time Interactive Reconstruction Demo</h3>
+                        <h3>Our Interactive Reconstruction Demo</h3>
                         <hr style="margin-top:0px">
                         <br>
                     </div>
@@ -119,7 +119,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h3>Comparison with Baseline</h3>
+                        <h3>Comparison with Baseline on Real-world Scenes</h3>
                         <hr style="margin-top:0px">
                         <br>
                     </div>
@@ -268,10 +268,10 @@
                         <p class="text-justify; text-center"> GT mesh by expert </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> our cube-mesh by p1 </p>
+                        <p class="text-justify; text-center"> our mesh by p1 </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> our cube-mesh by p2 </p>
+                        <p class="text-justify; text-center"> our mesh by p2 </p>
                     </div>
                 </div>
     
@@ -324,10 +324,10 @@
                         <p class="text-justify; text-center"> GT mesh by expert </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> our cube-mesh by p1 </p>
+                        <p class="text-justify; text-center"> our mesh by p1 </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> our cube-mesh by p2 </p>
+                        <p class="text-justify; text-center"> our mesh by p2 </p>
                     </div>
                 </div>
             </div>
