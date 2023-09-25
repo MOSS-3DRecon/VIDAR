@@ -243,10 +243,10 @@
                         <p class="text-justify; text-center"> Target Scene </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> offline mesh by p1 </p>
+                        <p class="text-justify; text-center"> Offline mesh by p1 </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> offline mesh by p2 </p>
+                        <p class="text-justify; text-center"> Offline mesh by p2 </p>
                     </div>
                 </div>
     
@@ -268,10 +268,10 @@
                         <p class="text-justify; text-center"> GT mesh by expert </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> our mesh by p1 </p>
+                        <p class="text-justify; text-center"> Our mesh by p1 </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> our mesh by p2 </p>
+                        <p class="text-justify; text-center"> Our mesh by p2 </p>
                     </div>
                 </div>
     
@@ -299,10 +299,10 @@
                         <p class="text-justify; text-center"> Target Scene </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> offline mesh by p1 </p>
+                        <p class="text-justify; text-center"> Offline mesh by p1 </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> offline mesh by p2 </p>
+                        <p class="text-justify; text-center"> Offline mesh by p2 </p>
                     </div>
                 </div>
     
@@ -324,10 +324,10 @@
                         <p class="text-justify; text-center"> GT mesh by expert </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> our mesh by p1 </p>
+                        <p class="text-justify; text-center"> Our mesh by p1 </p>
                     </div>
                     <div class="col text-center">
-                        <p class="text-justify; text-center"> our mesh by p2 </p>
+                        <p class="text-justify; text-center"> Our mesh by p2 </p>
                     </div>
                 </div>
             </div>
